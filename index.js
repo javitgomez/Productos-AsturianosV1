@@ -1,4 +1,4 @@
-/* Servidor principal de Express y servicios */
+/* Servidor principal de Expres y servicios */
 
 // Carga del módulo Express
 const express = require ('express');
